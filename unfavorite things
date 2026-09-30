@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Hello, World!</title>
+    </head>
+    <body>
+        <h1> Hello,World!</h1>
+        <p> こんにちは</p>
+
+        <h2>好きな食べ物</h2>
+        <p>お寿司</p>
+
+        <h3>嫌いな飲み物</h3>
+        <p>牛乳</p>
+    </body>
+</html>
